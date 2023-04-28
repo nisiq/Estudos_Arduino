@@ -1,0 +1,24 @@
+Arduino é o nome de um projeto que consiste na especificação de uma linguagem de programação e de um circuito baseados em um microcontrolador, 
+como uma plataforma eletrônica para facilitar a construção de dispositivos interativos que detectam e controlam objetos no mundo físico. 
+É um projeto de fonte aberta: a especificação do hardware e software são livres.
+
+
+Modelos:
+  Arduíno UNO
+  Arduíno MEGA
+  Arduíno MINI
+  Arduíno LILYPAD
+  
+  
+  SINAL (ONDAS):
+   Tensão variável em um período de tempo;
+   Transmitem/recebem informações (áudio, vídeo, dados);
+   
+   Sinal digital: Ondinhas
+   Sinal Analogico: Reto
+   
+   PWM:
+   Tipo de sinal digital, em que o sinal é variado ao longo do tempo, permite
+   
+   
+   Quanto maioro o tempo do pulso, maior a potência
